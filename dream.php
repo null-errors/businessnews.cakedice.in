@@ -1,4 +1,4 @@
-	<!DOCTYPE html>
+<!DOCTYPE html>
 	<html lang="zxx" class="no-js">
 	<head>
 		<!-- Mobile Specific Meta -->
@@ -39,14 +39,16 @@
 							<img class="mx-auto d-block img-fluid" src="img/about-img.png" alt="">
 						</div>
 						<div class="col-lg-6 home-about-right">
-							<h6 class="text-uppercase">Brand new app to blow your mind</h6>
-							<h1>We’ve made a life <br>
-							that will change you</h1>
-							<p>
+							<!--<h6 class="text-uppercase">Brand new app to blow your mind</h6>-->
+							<h1>Our Dream</h1>
+							<!--<p>
 								<span>We are here to listen from you deliver exellence</span>
+							</p>-->
+							<p>
+								Our dream is to become successful and outstanding in all business endeavors and our dealings with the public , we have set lots of goals and how to achieve them is our top priority, we are making sure we work hard to ensure a safe and genuine haven for our traders and customers around the world and to give them the best of goods and services.
 							</p>
 							<p>
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis.
+							We are set to achieve economical goals, and to be in the top flight when it comes to the business world and to make our services open to everyone whom is ready to work hand in hand with us and we also dream to make sure everyone is okay and successful.
 							</p>
 							
 						</div>
@@ -69,6 +71,3 @@
 			?>
 		</body>
 	</html>
-
-
-
