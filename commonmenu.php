@@ -31,10 +31,6 @@
 			    	</div>
 			    </div>	
 			    	<hr>
-					<?php
-$current_file_name = basename($_SERVER['PHP_SELF']);
-echo $current_file_name."\n";
-?>
 			    <div class="container">	
 			    	<div class="row align-items-center justify-content-center d-flex">
 				      <nav id="nav-menu-container">
