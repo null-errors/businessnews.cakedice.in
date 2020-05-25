@@ -45,7 +45,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-6 home-about-left">
-							<img class="mx-auto d-block img-fluid" src="img/founder.jpg" alt="">
+							<img class="mx-auto d-block img-fluid" src="img/10.jpg" alt="">
 						</div>
 						<div class="col-lg-6 home-about-right">
 							<h2>Founder and Managing Director</h2>

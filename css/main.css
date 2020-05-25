@@ -2282,7 +2282,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 .home-about-area
 {
-	padding: 200px 0 !important;
+	padding: 200px 0 0px !important;
 }
 .section-gap {
   padding: 10px 0;
