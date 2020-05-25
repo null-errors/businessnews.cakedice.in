@@ -23,6 +23,15 @@
 			<?php
 			include('commonheader.php');
 			?>
+			<style type="text/css">
+				@media (max-width: 960px) {
+  .home-about-right {
+    margin-top: 50px;
+    text-align: center;
+  }
+}
+
+			</style>
 		</head>
 		<body>
 			<!-- header starts -->
@@ -39,7 +48,7 @@
 							<img class="mx-auto d-block img-fluid" src="img/founder.jpg" alt="">
 						</div>
 						<div class="col-lg-6 home-about-right">
-							<h1>Founder and Managing Director</h1>
+							<h2>Founder and Managing Director</h2>
 							<p>
 								<span>IKOMONI AKPOVIRE MICHAEL- KING</span>
 							</p>
