@@ -232,7 +232,7 @@ Currently Michael King Global is currently only known in few cities in Nigeria b
 						</div>
 						<div class="col-lg-6 home-about-right">
 						<h1 style="color:red;">
-								OUR MODELING PHOTOS
+								OUR MODELS
 							</h1>
 							
 							<!--<p style="color:white;">

@@ -1,4 +1,4 @@
-	<!DOCTYPE html>
+<!DOCTYPE html>
 	<html lang="zxx" class="no-js">
 	<head>
 		<!-- Mobile Specific Meta -->
@@ -36,18 +36,16 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-6 home-about-left">
-							<img class="mx-auto d-block img-fluid" src="img/about-img.png" alt="">
+							<img class="mx-auto d-block img-fluid" src="img/founder.jpg" alt="">
 						</div>
 						<div class="col-lg-6 home-about-right">
-							<h6 class="text-uppercase">Brand new app to blow your mind</h6>
-							<h1>We’ve made a life <br>
-							that will change you</h1>
+							<h1>Founder and Managing Director</h1>
 							<p>
-								<span>We are here to listen from you deliver exellence</span>
+								<span>IKOMONI AKPOVIRE MICHAEL- KING</span>
 							</p>
-							<p>
+							<!--<p>
 								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis.
-							</p>
+							</p>-->
 						</div>
 					</div>
 				</div>	
@@ -68,6 +66,5 @@
 			?>
 		</body>
 	</html>
-
 
 
