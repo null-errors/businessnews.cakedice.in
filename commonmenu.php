@@ -1,4 +1,4 @@
- <style type="text/css">
+<style type="text/css">
  	.header-top .menu-top-left .tel{
  		color:white;
  	}
@@ -31,21 +31,45 @@
 			    	</div>
 			    </div>	
 			    	<hr>
+					<?php
+$current_file_name = basename($_SERVER['PHP_SELF']);
+?>
 			    <div class="container">	
 			    	<div class="row align-items-center justify-content-center d-flex">
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
 						
-				          <li class="menu-active"><a href="index.php">HOME </a></li>
-				          <li class="menu-has-children"><a href="#">ABOUT US</a>
+				          <li class=" <?php if($current_file_name=="index.php")
+						  {
+							  echo "menu-active";
+						  }?>"><a href="index.php">HOME </a></li>
+				          <li class="menu-has-children <?php if($current_file_name==("visionmission.php"))
+						  {
+							  echo "menu-active";
+						  }
+						  else if($current_file_name==("whoweare.php"))
+						  {
+							  echo "menu-active";
+						  }
+						  else if($current_file_name==("dream.php"))
+						  {
+							  echo "menu-active";
+						  }
+						  else if($current_file_name==( "leadership.php"))
+						  {
+							  echo "menu-active";
+						  }?>"><a href="#">ABOUT US</a>
 						  <ul>
 				              <li><a href="whoweare.php">Who we are?</a></li>
 				              <li><a href="visionmission.php">Our Mission & Vision</a></li>
 							  <li><a href="dream.php">Our Dream</a></li>
 							  <li><a href="leadership.php">Leadership</a></li>
-				            </ul>
+				          </ul>
 						  </li>
-				          <li><a href="business.php">OUR BUSINESS</a>
+				          <li class="<?php if($current_file_name=="business.php")
+						  {
+							  echo "menu-active";
+						  }?>"><a href="business.php">OUR BUSINESS</a>
 						  <ul>
 				              <li><a href="#">Entrepreneurship</a></li>
 				              <li><a href="#">Fashion Modeling</a></li>
@@ -57,13 +81,19 @@
 							   <li><a href="#">Modeling</a></li>
 							   <li><a href="#">Advertisements</a></li>
 				            </ul></li>				          
-				          <li><a href="history.php">HISTORY</a>
+				          <li class="<?php if($current_file_name=="history.php")
+						  {
+							  echo "menu-active";
+						  }?>"><a href="history.php">HISTORY</a>
 						  <ul>
 				              <li><a href="#">Who we are</a></li>
 				              <li><a href="#">Where we come from</a></li>
 				            </ul></li>
 				        
-				          <li class="menu-has-children"><a href="">contact US</a>
+				          <li class="menu-has-children <?php if($current_file_name=="")
+						  {
+							  echo "menu-active";
+						  }?>"><a href="">contact US</a>
 				            <ul>
 				              <li><a href="https://www.instagram.com/michaelking_global/">Instagram</a></li>
 				              <li><a href="https://www.facebook.com/profile.php?id=100043485319393">Facebook</a></li>
