@@ -36,7 +36,9 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-6 home-about-left">
-							<img class="mx-auto d-block img-fluid" src="img/about-img.png" alt="">
+														<img class="mx-auto d-block img-fluid" src="img/section/1.jpg" alt="">
+							<img class="mx-auto d-block img-fluid" src="img/section/2.jpg" alt="">
+							<img class="mx-auto d-block img-fluid" src="img/section/3.png" alt="">
 						</div>
 						<div class="col-lg-6 home-about-right">
 							<!--<h6 class="text-uppercase">Brand new app to blow your mind</h6>-->
