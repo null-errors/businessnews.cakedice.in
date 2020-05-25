@@ -48,7 +48,7 @@
 							Michael King Global is a future company poised to reach new heights in every endeavor.<br />
 
 In pursuit of self reliance
-Michael King Global is striving for self-reliance in Nigeria in all the sectors where it operates and has drawn up ambitious plans to set up world-class projects in new realms such as Agriculture, Modeling & So many more The Group’s intention is to single-handedly take Nigeria to self sufficiency in all businesses and to expand rapidly across Africa, and to help other countries achieve the same.
+Michael King Global is striving for self-reliance in Nigeria in all the sectors where it operates and has drawn up ambitious plans to set up world-class projects in new realms such as Agriculture, Modeling & So many more The Group’s intention is to single-handedly take Nigeria to self sufficiency in all businesses and to expand rapidly across Africa, and to help other countries achieve the same.<br />We are set to achieve economical goals, and to be in the top flight when it comes to the business world and to make our services open to everyone whom is ready to work hand in hand with us and we also dream to make sure everyone is okay and successful
 							</p>
 							
 						</div>
