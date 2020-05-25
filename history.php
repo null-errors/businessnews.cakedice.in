@@ -40,12 +40,13 @@
 						</div>
 						<div class="col-lg-6 home-about-right">
 							<!--<h6 class="text-uppercase">Brand new app to blow your mind</h6>-->
-							<h1>Our Mission and Vision</h1>
+							<h1>Our History</h1>
 							<p>
 								<!--<span>We are here to listen from you deliver exellence</span>-->
 							</p>
 							<p>
-								Is to take young business mind to a new dimension across Africa and same to the world
+								Michael King Global started as a house hold name
+                                And is set to break records around the world 
 							</p>
 							
 						</div>

@@ -21,7 +21,7 @@
 			    		</div>
 			    		<div class="col-lg-4 menu-top-middle justify-content-center d-flex">
 							<a href="index.php" style="color: red; font-weight: 900;">
-								<img class="img-fluid logo" src="img/business.png" alt="" />
+								<img class="img-fluid logo" src="img/business.png" alt="">
 							</a>			    			
 			    		</div>
 			    		<div class="col-lg-4 col-sm-4 menu-top-right">
@@ -31,11 +31,16 @@
 			    	</div>
 			    </div>	
 			    	<hr>
+					<?php
+$current_file_name = basename($_SERVER['PHP_SELF']);
+echo $current_file_name."\n";
+?>
 			    <div class="container">	
 			    	<div class="row align-items-center justify-content-center d-flex">
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
-				          <li class="menu-active"><a href="index.php">HOME</a></li>
+						
+				          <li class="menu-active"><a href="index.php">HOME </a></li>
 				          <li class="menu-has-children"><a href="#">ABOUT US</a>
 						  <ul>
 				              <li><a href="whoweare.php">Who we are?</a></li>
@@ -44,7 +49,7 @@
 							  <li><a href="leadership.php">Leadership</a></li>
 				            </ul>
 						  </li>
-				          <li><a href="#">OUR BUSINESS</a>
+				          <li><a href="business.php">OUR BUSINESS</a>
 						  <ul>
 				              <li><a href="#">Entrepreneurship</a></li>
 				              <li><a href="#">Fashion Modeling</a></li>
@@ -56,7 +61,7 @@
 							   <li><a href="#">Modeling</a></li>
 							   <li><a href="#">Advertisements</a></li>
 				            </ul></li>				          
-				          <li><a href="training.html">HISTORY</a>
+				          <li><a href="history.php">HISTORY</a>
 						  <ul>
 				              <li><a href="#">Who we are</a></li>
 				              <li><a href="#">Where we come from</a></li>
